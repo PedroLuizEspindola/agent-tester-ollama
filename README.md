@@ -18,3 +18,14 @@ Minha primeira abordagem foi tentar implementar o agente usando **Azure OpenAI**
 - Evitar custos extras e manter o desenvolvimento de forma autônoma.
 
 Também enfrentei desafios ao gerar testes complexos automaticamente, como a criação de casos de falha para funções que envolvem tratamento de exceções e validações específicas.
+
+1 Clone o repositório:
+
+git clone https://github.com/seuusuario/agente-testes-python](https://github.com/PedroLuizEspindola/agent-tester-ollama).git
+cd agente-testes-ollama
+
+2 Baixar o Ollama localmente na maquina:
+https://ollama.com/download
+
+3 Rodar os arquivos teste criados:
+main.py exemplos/soma.py
